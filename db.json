@@ -1,0 +1,22 @@
+{
+    "players":[
+        {
+        "id": 1,
+        "firstName": "steph",
+        "lastName": "curry",
+        "image":"./assets/images/steph.jpg"
+        },
+        {
+        "id": 2,
+        "firstName": "klay",
+        "lastName": "Thompson",
+        "image":"./assets/images/klay.jpg"
+        },
+        {
+        "id": 3,
+        "firstName": "Andrew",
+        "lastName": "Wiggins",
+        "image":"./assets/images/wiggins.jpg"
+        }
+    ]
+}
