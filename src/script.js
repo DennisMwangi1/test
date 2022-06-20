@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     .then((res)=>res.json())
     .then((players)=> renderPlayers(players.players))
     
-    // .catch(alert('cannot render players'))
+    .catch(alert('cannot render players'))
 
    function renderPlayers(player) {
     const heading1 = document.getElementById('heading1')
